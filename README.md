@@ -1,13 +1,13 @@
 # ds_diti
 
-# 📊 Trader Behavior Analysis – Data Science Task
+# Trader Behavior Analysis – Data Science Task
 
 This repository contains the complete solution to the Trader Behavior Analysis assignment.  
 The goal of the project is to understand how trader performance (PnL, win-rate, behavior patterns) varies with market sentiment (Fear / Neutral / Greed), using the provided historical trader dataset and the Fear & Greed Index.
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 ds_diti/
 │
 ├── notebook_1.ipynb # Google Colab notebook for full analysis
@@ -37,7 +37,7 @@ ds_diti/
 ├── ds_report.pdf # Final report (your filled-in version)
 └── README.md # This file
 
-## 🧠 Methodology (High-Level Overview)
+## Methodology (High-Level Overview)
 
 The analysis follows these steps:
 
@@ -92,15 +92,15 @@ You will fill these with your own observations from the output images.
 
 ---
 
-## 📓 Notebook
+## Notebook
 
 The entire analysis is implemented in this Colab notebook:
 
-👉 **https://colab.research.google.com/drive/1-hHo-IECgsSBBRCe0XZ_r8z0Ju38OFjo?usp=sharing**
+**https://colab.research.google.com/drive/1-hHo-IECgsSBBRCe0XZ_r8z0Ju38OFjo?usp=sharing**
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Open the notebook in Google Colab  
 2. Run all cells from top to bottom  
@@ -110,7 +110,7 @@ The entire analysis is implemented in this Colab notebook:
 
 ---
 
-## 📬 Contact
+## Contact
 
 **Your Name**  
 Email: diti.solanki13@gmail.com  
