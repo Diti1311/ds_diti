@@ -7,36 +7,6 @@ The goal of the project is to understand how trader performance (PnL, win-rate, 
 
 ---
 
-## Repository Structure
-ds_diti/
-│
-├── notebook_1.ipynb # Google Colab notebook for full analysis
-│
-├── csv_files/ # All processed datasets
-│ ├── agg_by_sentiment.csv
-│ ├── agg_by_coin.csv
-│ ├── agg_by_direction.csv
-│ ├── agg_by_hour.csv
-│ ├── daily_pnl.csv
-│ ├── top_accounts.csv
-│ ├── merged_sample.csv
-│ └── ...
-│
-├── outputs/ # All generated charts & plots
-│ ├── trades_by_sentiment.png
-│ ├── mean_pnl_by_sentiment.png
-│ ├── pnl_box_by_sentiment.png
-│ ├── win_rate_by_sentiment.png
-│ ├── top_coins_total_pnl.png
-│ ├── trades_by_hour.png
-│ ├── mean_pnl_by_hour.png
-│ ├── fee_vs_size_scatter.png
-│ ├── pnl_histogram.png
-│ └── ...
-│
-├── ds_report.pdf # Final report (your filled-in version)
-└── README.md # This file
-
 ## Methodology (High-Level Overview)
 
 The analysis follows these steps:
