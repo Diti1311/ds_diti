@@ -1,8 +1,7 @@
 # ds_diti
 
-# Trader Behavior Analysis – Data Science Task
-
-This repository contains the complete solution to the Trader Behavior Analysis assignment.  
+# Trader Behavior Analysis
+This repository contains the complete solution to the Trader Behavior Analysis.  
 The goal of the project is to understand how trader performance (PnL, win-rate, behavior patterns) varies with market sentiment (Fear / Neutral / Greed), using the provided historical trader dataset and the Fear & Greed Index.
 
 ---
