@@ -81,6 +81,6 @@ The entire analysis is implemented in this Colab notebook:
 
 ## Contact
 
-**Your Name**  
+**Diti Solanki**  
 Email: diti.solanki13@gmail.com  
 GitHub: Diti1311
