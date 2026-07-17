@@ -57,7 +57,23 @@ Generated clear charts for:
 (All plots saved in `/outputs/`)
 
 ### **7. Findings & Insights**
-You will fill these with your own observations from the output images.
+1. Exploit Extreme Greed: The data suggests a strong edge in trading during periods of 
+Extreme Greed, as these trades yield the highest average profit and win rate. This 
+contradicts the conventional wisdom of "buying when others are fearful and selling 
+when others are greedy." 
+2. Avoid Extreme Fear: Trading during Extreme Fear is highly detrimental, with the 
+lowest win rate and lowest mean PnL. Reducing exposure during this sentiment is 
+strongly recommended. 
+3. Optimize Trading Time: 
+▪ Focus on the Noon Hour: Trades executed around 12:00 PM are, on average, 
+the most profitable. This hour should be a focus for high-conviction trades. 
+▪ Be Cautious at 11 PM: Despite being a high-volume hour, the negative mean 
+PnL at 23:00 PM indicates poor execution or unfavourable market conditions 
+for the strategy during this time. A detailed review of trades during this hour is 
+needed. 
+4. Review Coin Performance: The strategy should focus on the top-performing coins, 
+particularly '@107' and 'HYPE'. The coin 'FARTCOIN' should be reviewed for potential 
+exclusion due to its negative overall PnL contribution.
 
 ---
 
